@@ -6,11 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:openDrawer="start"
-    tools:context="sn.suite.apps.monmenu.activities.MainActivity">
+    tools:context="sn.suite.apps.monmenu.activities.AnnuaireActivity"
+    tools:openDrawer="start">
 
     <include
-        layout="@layout/app_bar_main"
+        layout="@layout/app_bar_annuaire"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
@@ -24,4 +24,5 @@
         app:menu="@menu/left_menu" />
 
 </android.support.v4.widget.DrawerLayout>
+
 

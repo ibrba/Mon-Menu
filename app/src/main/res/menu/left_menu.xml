@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_accueil"
+        android:icon="@drawable/left_home"
+        android:title="Accueil" />
+    <item
+        android:id="@+id/nav_favoris"
+        android:icon="@drawable/left_favorite_heart"
+        android:title="Favoris" />
+    <item
+        android:id="@+id/nav_lieux"
+        android:icon="@drawable/left_location"
+        android:title="Lieux" />
+    <item
+        android:id="@+id/nav_annuaire"
+        android:icon="@drawable/left_telephone"
+        android:title="Annuaire" />
+    <item
+        android:id="@+id/nav_magazine"
+        android:icon="@drawable/left_magazine"
+        android:title="Votre Magazine" />
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/left_contact_us"
+        android:title="Nous Contacter" />
+    <item
+        android:id="@+id/nav_params"
+        android:icon="@drawable/left_settings"
+        android:title="Paramétrages" />
+</menu>
